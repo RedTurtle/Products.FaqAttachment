@@ -4,7 +4,7 @@ Changelog
 0.2 (unreleased)
 ----------------
 
-- Nothing changed yet.
+- Removed document_relateditem macro.
 
 
 0.1 (2013-04-29)
